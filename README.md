@@ -29,7 +29,7 @@
 
 | Start | entering the name | Deleting |
 |--------------|----------|-----------|
-| ![Start](start.png) | ![Game](game.png) | ![Scoreboard](scoreboard.png) |
+| ![Start](ass-1.png) | ![Game](ass-2.png) | ![Scoreboard](ass-3.png) |
 
 ---
 
