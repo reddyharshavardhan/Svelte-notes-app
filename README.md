@@ -25,6 +25,14 @@
 - UI only, no backend code included
 - Svelte 5 and Tailwind 4 used for latest best practices
 
+## 📸 Screenshots
+
+| Start | entering the name | Deleting |
+|--------------|----------|-----------|
+| ![Start](start.png) | ![Game](game.png) | ![Scoreboard](scoreboard.png) |
+
+---
+
 ## 💡 Improvements with More Time
 
 - Add dark mode and delete confirmation modals
