@@ -27,9 +27,9 @@
 
 ## 📸 Screenshots
 
-| Start | entering the name | Deleting |
+| browser page after clicking the link | entering the details | Deleting |
 |--------------|----------|-----------|
-| ![Start](ass-1.png) | ![Game](ass-2.png) | ![Scoreboard](ass-3.png) |
+| ![Start](ass-1.png) | ![details](ass-2.png) | ![deleting](ass-3.png) |
 
 ---
 
